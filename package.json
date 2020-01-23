@@ -1,0 +1,14 @@
+{
+  "name": "svelte-toggleable",
+  "version": "1.0.0",
+  "description": "A toggleable store for Svelte",
+  "author": "Stephane Vanraes",
+  "repository": {
+    "url": "https://github.com/stephane-vanraes/svelte-toggleable"
+  },
+  "main": "src/index.js",
+  "license": "MIT",
+  "files": [
+    "src"
+  ]
+}
