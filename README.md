@@ -2,6 +2,10 @@
 
 Implements a _toggleable_ store with convenience functions.
 
+## Installation
+
+`npm add svelte-toggleable`
+
 ## Basic usage
 
 This store like object is meant to be a shorthand for typical calls like
